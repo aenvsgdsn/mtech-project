@@ -1,0 +1,16 @@
+{"timestamp":"2025-09-19 19:51:45","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"graphic-design","message":"ghjdc"}
+{"timestamp":"2025-09-19 19:51:57","name":"rteysr","email":"adfger@gmail.com","phone":"08976785467","course":"graphic-design","message":""}
+{"timestamp":"2025-09-19 19:52:02","name":"rteysr","email":"adfger@gmail.com","phone":"08976785467","course":"graphic-design","message":"srtegrt"}
+{"timestamp":"2025-09-19 19:52:33","name":"rteysr","email":"adfger@gmail.com","phone":"08976785467","course":"graphic-design","message":"srtegrt"}
+{"timestamp":"2025-09-19 19:54:03","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"web-development","message":""}
+{"timestamp":"2025-09-19 19:57:59","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"web-development","message":""}
+{"timestamp":"2025-09-19 20:03:25","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"web-development","message":""}
+{"timestamp":"2025-09-19 20:03:39","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"digital-marketing","message":""}
+{"timestamp":"2025-09-19 20:05:02","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"digital-marketing","message":""}
+{"timestamp":"2025-09-19 20:05:57","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"digital-marketing","message":""}
+{"timestamp":"2025-09-19 20:06:26","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"digital-marketing","message":""}
+{"timestamp":"2025-09-19 20:06:37","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"digital-marketing","message":""}
+{"timestamp":"2025-09-19 20:08:01","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"digital-marketing","message":""}
+{"timestamp":"2025-09-19 20:12:19","name":"abdulahad","email":"adfger@gmail.com","phone":"08976785467","course":"other","message":""}
+{"timestamp":"2025-09-19 20:12:25","name":"abdulahad","email":"adfger@gmail.com","phone":"08976785467","course":"web-development","message":""}
+{"timestamp":"2025-09-20 15:39:49","name":"ahad","email":"adfger@gmail.com","phone":"08976785467","course":"game-development","message":""}
